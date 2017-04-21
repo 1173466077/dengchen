@@ -1,0 +1,56 @@
+
+sass 的文件后缀是 .scss
+编译后自动生成CSS文件
+如果出现 中文乱码，需要到Koala的安装目录下修改
+
+   	sass的解析方式有 如下：
+
+nested 
+
+expand
+
+compact
+
+compressed
+
+   	sass的基本语法：
+ 
+算数运算 +，-，*，/
+sass使用运算符时 需要在左右加上空格
+
+父元素选择符是 & 
+
+变量是 $
+
+导入 @import
+
+继承 @extend
+
+	sass的语句有 如下：
+
+if，else if， for，for each，while
+
+行间函数 @function
+
+	sass常用的内置函数有 如下：
+length 
+
+nth
+
+round
+
+ceil
+
+floor
+
+mix max random
+
+rgb rgba
+
+	sass嵌套：
+父元素要包含自己的子元素
+
+
+当夜晚降临谁会送迷路的心回家
+
+拨通了电话说道 你还好吗
